@@ -12,6 +12,7 @@
 #ifdef VISIONCORE_CUDA_COMPILER
 
 #include <cuda_runtime.h>
+#include <cuda.h>
 
 namespace vc
 {
